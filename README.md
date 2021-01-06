@@ -1,5 +1,5 @@
-# Hello, folks! I am Shashank Vaish<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# I am Shashank Vaish
 I'm an Undergraduate engineering student at NIT Jalandhar. I am an Android Enthusiast
 
 <hr/>
