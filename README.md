@@ -2,7 +2,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # I am Shashank Vaish
 * I am an Android Enthusiast with expertise over MVVM Android architecture and handling backend Services through Firebase.
-* I have done quite a few basic to complex Android projects.
+* I have done quite a few complex Android projects.
+* Co-Founder and CTO of Grado Edu. (Ed-Tech Startup).
 * I am also into python programming and Data Analytics.
 
 <hr/>
